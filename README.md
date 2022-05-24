@@ -1,6 +1,8 @@
 
 # GCB Tech - Post Factory
 
+[![Instagram - GCB Tech](https://img.shields.io/badge/instagram-gcb.tech-red)](https://www.instagram.com/gcb.tech/) 
+
 Projeto construído com o intuito de criar imagens com conteúdo para posts nas redes sociais do setor Tech do Grupo GCB, contribuindo com o programa de gameficação da área, onde buscamos disseminar os conteúdos/conhecimentos que adquirimos no dia-a-dia.
 
 
@@ -32,7 +34,7 @@ Projeto construído com o intuito de criar imagens com conteúdo para posts nas 
 
 ## Autores
 
-- [@thunderjr0](https://www.github.com/thunderjr0)
+- [@thunderjr](https://www.github.com/thunderjr)
 
 
 ## Licença
